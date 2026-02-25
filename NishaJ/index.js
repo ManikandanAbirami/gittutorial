@@ -1,2 +1,2 @@
-var name="nisha";
+var name="Nisha";
 var age=25
